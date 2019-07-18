@@ -1,0 +1,12 @@
+.app-header{
+    height: 100px;
+    width: 100%;
+    background: #f35b5b;
+    font-size: 20px;
+    font-weight: bold;
+    color: aliceblue;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+    align-items: center;
+}
